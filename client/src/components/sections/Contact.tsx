@@ -77,7 +77,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h3 className="font-bold text-white text-lg">Email</h3>
-                    <p className="text-muted-foreground">bookings@electorsound.com</p>
+                    <p className="text-muted-foreground">bookings@electrosound.com</p>
                   </div>
                 </div>
 

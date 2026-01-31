@@ -30,7 +30,7 @@ export function About() {
             </h2>
             <div className="space-y-6 text-muted-foreground text-lg leading-relaxed">
               <p>
-                Founded in the early 90s, Elector Sound Machine (ESM) started with a simple mission: to bring professional-grade audio experiences to local events.
+                Founded in the early 90s, Electro Sound Machine (ESM) started with a simple mission: to bring professional-grade audio experiences to local events.
               </p>
               <p>
                 Three decades later, we've grown into a premier production house, trusted by wedding planners, corporate event managers, and festival organizers alike. We don't just rent equipment; we engineer atmospheres.
