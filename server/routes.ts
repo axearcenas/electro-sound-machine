@@ -19,6 +19,7 @@ export async function registerRoutes(
         await resend.emails.send({
           from: 'onboarding@resend.dev',
           to: 'axearcenas@gmail.com',
+          replyTo: input.email,
           subject: `New Inquiry from ${input.name} - ESM`,
           html: `
             <h1>New Event Inquiry</h1>
